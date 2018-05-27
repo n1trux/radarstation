@@ -11,7 +11,7 @@ tk_author: "Mauzi"
 tk_original_urls:
   - "https://www.srf.ch/news/international/sexueller-missbrach-ein-dutzend-priester-in-chile-suspendiert"
   - "http://www.krone.at/1711540?__varnish_marked=1&kmm=1&app=CORE"
-  - "http://www.dw.com/de/chilenische-bisch%C3%B6fe-reichen-geschlossen-ihren-r%C3%BCcktritt-ein/a-43842191"7
+  - "http://www.dw.com/de/chilenische-bisch%C3%B6fe-reichen-geschlossen-ihren-r%C3%BCcktritt-ein/a-43842191"
 ---
 Unsere liebe "Mauzi" hat auch bei diesem Artikel über einen Chilenischen
 Sexpriesterskandal fleißig kopiert.
