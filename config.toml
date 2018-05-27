@@ -1,0 +1,4 @@
+baseURL = "https://radarstation.tk/"
+languageCode = "de"
+title = "Radarstation"
+theme = "mainroad"
