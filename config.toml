@@ -2,8 +2,8 @@ baseURL = "https://radarstation.tk/"
 languageCode = "de"
 title = "Radarstation"
 theme = "mainroad"
-
 paginate = "10" # Number of posts per page
+
 [Params]
     subtitle = "… wir sind das Radar" # Subtitle of your site. Used in site header
     description = "Wir schauen den Autoren von Tarnkappe.info auf den Finger." # Description of your site. Used in meta description
@@ -22,3 +22,11 @@ paginate = "10" # Number of posts per page
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Über diese Seite"
+    title = "Über"
+    url = "/about"
+    weight = 100
