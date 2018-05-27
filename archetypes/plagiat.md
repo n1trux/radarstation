@@ -6,8 +6,8 @@ categories:
   - "Tarnkappe"
 tags:
   - "Plagiat"
-tk_url: "https://tarnkappe.info/10-000-euro-strafe-fuer-piraten-tipps-scpp/"
+tk_url: ""
+tk_author: ""
 tk_original_urls:
-  - "https://tagesschau.de"
-  - "https://dw.com"
+  - ""
 ---
