@@ -72,3 +72,9 @@ Auch nett dieses sprachliche Abfallkonstrukt:
 
 >Wie Schrems auf seiner Seite schreibt, unter anderem will die NGO bei
 der Hamburger Datenschutzbehörde klären lassen, […]
+
+## Wayback Machine
+
+Vielen Dank an Archive.org, bei denen wir mit einem einfachen Klick
+die [derzeitige Artikelversion vom 27.05.18](https://web.archive.org/web/20180527161722/https://tarnkappe.info/dsgvo-noyb-bringt-vier-beschwerden-wegen-zwangszustimmung-ein/)
+für immer sichern konnten.
