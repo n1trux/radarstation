@@ -5,7 +5,7 @@ theme = "mainroad"
 
 paginate = "10" # Number of posts per page
 [Params]
-    subtitle = "Tarnkappe.info Watchblog" # Subtitle of your site. Used in site header
+    subtitle = "… wir sind das Radar" # Subtitle of your site. Used in site header
     description = "Wir schauen den Autoren von Tarnkappe.info auf den Finger." # Description of your site. Used in meta description
     opengraph = false # Enable OpenGraph if true
     twitter_cards = false # Enable Twitter Cards if true
@@ -13,4 +13,12 @@ paginate = "10" # Number of posts per page
     leftsidebar = false # Move sidebar to the left side if true
     authorbox = false # Show authorbox at bottom of pages if true
     post_navigation = true # Show post navigation at bottom of pages if true
-    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    postSections = ["plagiat", "kritik"] # the section pages to show on home page and the "Recent articles" widget
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
