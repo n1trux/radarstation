@@ -1,6 +1,6 @@
 ---
 title: "Priester in Chile wegen Sex-Chats suspendiert"
-date: "2018-05-27T1500"
+date: "2018-05-27T15:00"
 description: "dreist kopiert von SRF, Krone und vor allem DW.com"
 categories:
   - "Tarnkappe"
@@ -59,3 +59,9 @@ Ein paar Perlen:
 (wobei das auch einfach fehlende Orthografiekenntnisse sein könnten)
 
 >Dem TV-Sender T13Sender zufolge
+
+## Wayback Machine
+
+[Snapshot vom 27.5.18](https://web.archive.org/web/20180527154333/https://tarnkappe.info/priester-in-chile-wegen-sex-chats-suspendiert/)
+
+Danke an Archive.org!
